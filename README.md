@@ -30,8 +30,8 @@ I help small businesses:
 
 📫 **Let’s Collaborate!**  
 - Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/yourname](#)  
-- Portfolio: [your-portfolio-link](#)  
+- LinkedIn: [linkedin.com/in/shaswata-ghosh-70315037a](#)  
+- Portfolio: [https://cal.com/shaswata-ghosh-ccmzrz](#)  
 
 ---
 ⭐ *Looking for reliable, fast, and creative automation? Let’s talk!*  
