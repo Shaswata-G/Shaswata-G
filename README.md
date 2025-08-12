@@ -29,7 +29,7 @@ I help small businesses:
 - [E-commerce Order Automation](#) – Connects store, payment, and shipping into one flow  
 
 📫 **Let’s Collaborate!**  
-- Email: your.email@example.com  
+- Email: shaswataghosh525@gmail.com
 - LinkedIn: [linkedin.com/in/shaswata-ghosh-70315037a](#)  
 - Portfolio: [https://cal.com/shaswata-ghosh-ccmzrz](#)  
 
