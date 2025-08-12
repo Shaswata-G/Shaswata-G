@@ -1,4 +1,6 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Shaswata Ghosh
+
+<img height="200" src="https://pin.it/421X2QZzy"  />
 
 🚀 **AI Automation Freelancer** specializing in **chatbot automation** and **workflow integration** for small businesses.  
 I build **end-to-end automation systems** using:
