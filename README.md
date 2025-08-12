@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Shaswata Ghosh
 
-<img align="right" width="400" src="https://in.pinterest.com/pin/36099234507251989/">
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/8c784cda-a115-4871-a44e-74b41b90cfa6" />
+
 
 🚀 **AI Automation Freelancer** specializing in **chatbot automation** and **workflow integration** for small businesses.  
 I build **end-to-end automation systems** using:
