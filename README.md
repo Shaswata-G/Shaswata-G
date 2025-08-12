@@ -30,7 +30,7 @@ I help small businesses:
 
 📫 **Let’s Collaborate!**  
 - Email: shaswataghosh525@gmail.com  
-- LinkedIn: [www.linkedin.com/in/shaswata-ghosh-70315037a](#)  
+- LinkedIn: [www.linkedin.com/in/shaswata-ghosh-70315037a]  
 
 
 ---
