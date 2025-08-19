@@ -24,7 +24,7 @@ I help small businesses:
 - API Integrations  
 
 # 📌 **Highlighted Projects**
-- [Smart Lead Capture Chatbot](#) – Converts website visitors into CRM leads automatically  
+- [Telegram accountant](#) – Converts website visitors into CRM leads automatically  
 - [AI-Driven Support Desk](#) – Reduces customer response time by 70%  
 - [E-commerce Order Automation](#) – Connects store, payment, and shipping into one flow  
 
