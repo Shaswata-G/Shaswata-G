@@ -31,7 +31,8 @@ I help small businesses:
 # 📫 **Let’s Collaborate!**  
 - Email: shaswataghosh525@gmail.com
 - LinkedIn: [linkedin.com/in/shaswata-ghosh-70315037a](#)  
-- Portfolio: [https://cal.com/shaswata-ghosh-ccmzrz](#)  
+- Website: [https://cal.com/shaswata-ghosh-ccmzrz](#)  
 
 ---
 # ⭐ *Looking for reliable, fast, and creative automation? Let’s talk!*  
+Website[https://cal.com/shaswata-ghosh-ccmzrz]
